@@ -1,0 +1,53 @@
+  GNU nano 5.2                                                                    /home/selva/Escritorio/copia_proyecto_git/git-exercici/.git/COMMIT_EDITMSG                                                                    Modificado  
+He creado un txt llamado Data Science para satisfacer el exercicio 1 del curso de Git y GitHub
+
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# En la rama main
+# Tu rama está actualizada con 'origin/main'.
+#
+# Cambios a ser confirmados:
+#       nuevo archivo:  Data_Science
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Ayuda          ^O Guardar        ^W Buscar         ^K Cortar         ^T Ejecutar       ^C Ubicación      M-U Deshacer      M-A Poner marca   M-] A llave       M-Q Anterior      ^B Atrás          ^◀ Palabr ant     ^A Inicio
+^X Salir          ^R Leer fich.     ^\ Reemplazar     ^U Pegar          ^J Justificar     ^_ Ir a línea     M-E Rehacer       M-6 Copiar        ^Q Buscar atrás   M-W Siguiente     ^F Adelante       ^▶ Palabra Siguien^E Fin
